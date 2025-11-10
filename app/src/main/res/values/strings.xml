@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Day Progress Widget</string>
+    <string name="wake_time_label">Wake Time</string>
+    <string name="sleep_time_label">Sleep Time</string>
+    <string name="time_remaining">Time until sleep</string>
+    <string name="day_complete">Day Complete</string>
+    <string name="pick_time">Pick Time</string>
+</resources>
