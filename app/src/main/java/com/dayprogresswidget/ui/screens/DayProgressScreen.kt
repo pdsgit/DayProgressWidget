@@ -97,7 +97,7 @@ fun DayProgressScreen(
                 
                 Row(
                     horizontalArrangement = Arrangement.Center,
-                    verticalAlignment = Alignment.Baseline
+                    verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text(
                         text = "${uiState.hoursRemaining}",
